@@ -12,12 +12,16 @@ _1 TIL and counting..._
 ### Categories
 
 * [Mac](#mac)
-
+* [JavaScript](#javascript)
 ---
 
 ### Mac
 
 - [Case Insensitive using Terminal](mac/case-insentitive-terminal.md)
+
+### Javascript
+
+- [Unique value from array with `Set` and spread (`...`)](javascript/unique-values.md)
 
 ## About
 
