@@ -13,15 +13,20 @@ _1 TIL and counting..._
 
 * [Mac](#mac)
 * [JavaScript](#javascript)
+* [PostgreSQL](#postgresql)
 ---
 
 ### Mac
 
-- [Case Insensitive using Terminal](mac/case-insentitive-terminal.md)
+* [Case Insensitive using Terminal](mac/case-insentitive-terminal.md)
 
 ### Javascript
 
-- [Unique value from array with `Set` and spread (`...`)](javascript/unique-values.md)
+* [Unique value from array with `Set` and spread (`...`)](javascript/unique-values.md)
+
+### PostgreSQL
+
+* [Functions as Columns](postgresql/functions-as-columns.md)
 
 ## About
 
