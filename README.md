@@ -5,7 +5,7 @@
 A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies.
 
-_1 TIL and counting..._
+_3 TIL and counting..._
 
 ---
 
@@ -41,7 +41,7 @@ I shamelessly stole this idea from
 
 ## License
 
-&copy; 2015-2016 Felipe Sabino
+&copy; 2018 Felipe Sabino
 
 This repository is licensed under the MIT license. See `LICENSE` for
 details.

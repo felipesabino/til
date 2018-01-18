@@ -12,4 +12,4 @@ uniqueValues(['Today', 'Today', 'I', 'I', 'I', 'Learned']);
 // ['Today', 'I', 'Learned']
 ```
 
-Source: https://twitter.com/addyosmani/status/952805052086824960
+Source: <https://twitter.com/addyosmani/status/952805052086824960>
