@@ -5,7 +5,7 @@
 A collection of concise write-ups on small things I learn day to day across a
 variety of languages and technologies.
 
-_3 TIL and counting..._
+_4 TIL and counting..._
 
 ---
 
@@ -19,6 +19,7 @@ _3 TIL and counting..._
 ### Mac
 
 * [Case Insensitive using Terminal](mac/case-insentitive-terminal.md)
+* [Append Command and Notifications](mac/append-command-notification.md)
 
 ### Javascript
 
